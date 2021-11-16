@@ -1,0 +1,38 @@
+/**
+ * Theme Name: Facultad de tecnologías
+ * Theme URI: http://crie.edu.co/
+ * Author: Centro de Recusos Informáticos y Educativos
+ * Author URI: https://crie.utp.edu.co
+ * Description: Tema desarrollado para programas de la Universidad Tecnológica de Pereira desde el centro de recusos informáticos y educativos
+ * Template: plantilla-utp-facultades
+ * Version: 1.0
+ * License: UTP
+ * License URI: https://www.utp.edu.co
+ * Text Domain: utp
+ * Domain Path:
+ * Tags: reacreditación, Centro, Recusos, Informáticos, Educativos, facultades, institucional, industrial, mecanica, ingenierías, ingenierias, artes, musica, música, agro, agroindustria, ciencias, ambientales, ambiental, educación, empresariales, salud, facultad, facultades, básicas, basicas, tecnología, tecnologia, agrarias, rudecolombia, doctorado
+ * Text Domain: Universidad Tecnológica de Pereira, Doctorado en Ciencias de la Educación
+**/
+a {
+    color: #0c3054;
+    text-decoration: none;
+}
+
+.dropdown-menu {
+    background-color: #0c3054;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+.row{
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.titulonoti{
+    background: linear-gradient(90deg, #001B2A 1%, #554C33 50%);
+}
+
+.row_cabecera {
+    background-color:#554C33 !important ;
+}
